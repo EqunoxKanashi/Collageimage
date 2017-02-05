@@ -17,7 +17,7 @@ namespace Collageimage.Controllers
     {
         private ApplicationSignInManager _signInManager;
         private ApplicationUserManager _userManager;
-
+        //sdadas
         public AccountController()
         {
         }
